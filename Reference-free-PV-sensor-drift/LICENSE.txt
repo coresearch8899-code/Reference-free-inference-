@@ -1,0 +1,2 @@
+Copyright (c) 2026 Thanapon Saengsuwan and Chaiwat Naunchan. All rights reserved.
+The code is published so that the analysis can be read and checked. The data are not included.

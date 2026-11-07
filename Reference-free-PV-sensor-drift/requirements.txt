@@ -1,0 +1,7 @@
+# tested with Python 3.13.7
+numpy==2.3.3
+scipy==1.16.2
+pandas==2.3.2
+pvlib==0.16.1
+matplotlib==3.10.7
+pillow>=10
